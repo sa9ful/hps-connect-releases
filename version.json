@@ -1,8 +1,8 @@
 {
-  "version": "1.1.2",
-  "build_number": 3027,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.1.2.apk",
+  "version": "1.2.0",
+  "build_number": 3029,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.2.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "অ্যাপের ভেতর থেকে আপডেট দিলে \"App not installed\" দেখানোর সমস্যা ঠিক করা হয়েছে",
-  "released_at": "2026-11-22T19:39:07Z"
+  "release_notes": "নতুন সহজ ও গোছানো ডিজাইন: এক রঙের ছোট বোতাম, সব লেখা বাংলায়",
+  "released_at": "2026-11-22T20:10:32Z"
 }
