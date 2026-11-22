@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "build_number": 3029,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.2.0.apk",
+  "version": "1.3.0",
+  "build_number": 3040,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.3.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "নতুন সহজ ও গোছানো ডিজাইন: এক রঙের ছোট বোতাম, সব লেখা বাংলায়",
-  "released_at": "2026-11-22T20:10:32Z"
+  "release_notes": "বাংলা/ইংরেজি ভাষা, হোয়াটসঅ্যাপের মতো চ্যাট, জরুরি এলার্টে এলার্ম রিং, শিক্ষা সফরের বাস সীট প্ল্যান, শ্রেণি শিক্ষক পদবি, শুধু শ্রেণি শিক্ষকদের নোটিশ, অ্যাপ শেয়ার QR",
+  "released_at": "2026-11-22T21:20:46Z"
 }
