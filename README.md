@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.0.2)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.1.0)
 
 ছোট ফাইল (২০ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -10,10 +10,11 @@
 
 ## এই ভার্সনে নতুন
 
-নতুন লোগো, মেনুতে "অ্যাপ আপডেট" বোতাম, অ্যাপ আরও হালকা ও দ্রুত
+নতুন চেহারা ও অ্যানিমেশন, প্রোফাইল ও ছবি, ব্যক্তিগত চ্যাট (ইমোজি ও ছবি), পোল, ইনচার্জরা নিজের সেকশনে মিটিং/এলার্ট/টাস্ক পাঠাতে পারবেন
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.1.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.1.0.apk)
 - [HPS-Connect-1.0.2.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.0.2.apk)
 - [HPS-Connect-1.0.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.0.1.apk)
 - [HPS-Connect-1.0.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.0.0.apk)
