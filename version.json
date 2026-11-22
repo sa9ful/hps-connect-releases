@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "build_number": 4,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.0.0.apk",
+  "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
+  "release_notes": "CI: publish APK, README and version.json to releases repo; in-app update check",
+  "released_at": "2026-11-22T11:31:37Z"
+}
