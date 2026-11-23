@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.8.0)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.10.0)
 
 ছোট ফাইল (৩৬ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -10,11 +10,11 @@
 
 ## এই ভার্সনে নতুন
 
-নতুন: শিক্ষক প্রোফাইলে বিস্তারিত তথ্য। প্রশাসনিক, পারিবারিক, শিক্ষাগত, যোগাযোগ, হাজিরা মেশিন ও ব্যক্তিগত তথ্য প্রত্যেকে নিজেই পূরণ করতে পারবেন। জন্ম তারিখ দিলে বয়স নিজে হিসাব হয়।
+নতুন: শ্রেণিভিত্তিক সাংস্কৃতিক প্রতিযোগিতা। প্রতিটা শ্রেণি-শাখার শিক্ষক নিজের নম্বর শিট পাবেন, জমা দিলে লক হবে, প্রতিটা শ্রেণিতে আলাদা ১ম/২য়/৩য়, ইনচার্জ লাইভ ফলাফল ও রিমাইন্ডার, পুরস্কারের তালিকা PDF। সাথে: নোটিফিকেশন কখনো মিস হবে না, ফোনের মতো কল রিং, কালপুরুষ ফন্ট, শিক্ষা সফরে পরিবারের সীট।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.10.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.10.0.apk)
 - [HPS-Connect-1.8.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.8.0.apk)
 - [HPS-Connect-1.7.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.7.0.apk)
 - [HPS-Connect-1.6.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.6.0.apk)
-- [HPS-Connect-1.4.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.4.1.apk)

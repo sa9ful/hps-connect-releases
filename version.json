@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
-  "build_number": 3056,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.8.0.apk",
+  "version": "1.10.0",
+  "build_number": 3062,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.10.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "নতুন: শিক্ষক প্রোফাইলে বিস্তারিত তথ্য। প্রশাসনিক, পারিবারিক, শিক্ষাগত, যোগাযোগ, হাজিরা মেশিন ও ব্যক্তিগত তথ্য প্রত্যেকে নিজেই পূরণ করতে পারবেন। জন্ম তারিখ দিলে বয়স নিজে হিসাব হয়।",
-  "released_at": "2026-11-23T11:35:00Z"
+  "release_notes": "নতুন: শ্রেণিভিত্তিক সাংস্কৃতিক প্রতিযোগিতা। প্রতিটা শ্রেণি-শাখার শিক্ষক নিজের নম্বর শিট পাবেন, জমা দিলে লক হবে, প্রতিটা শ্রেণিতে আলাদা ১ম/২য়/৩য়, ইনচার্জ লাইভ ফলাফল ও রিমাইন্ডার, পুরস্কারের তালিকা PDF। সাথে: নোটিফিকেশন কখনো মিস হবে না, ফোনের মতো কল রিং, কালপুরুষ ফন্ট, শিক্ষা সফরে পরিবারের সীট।",
+  "released_at": "2026-11-23T12:25:00Z"
 }
