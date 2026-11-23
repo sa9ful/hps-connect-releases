@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "build_number": 3047,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.4.1.apk",
+  "version": "1.6.0",
+  "build_number": 3051,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.6.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "অডিও ও ভিডিও কল। হোমের ওপরের অংশ নতুন করে সাজানো: প্রোফাইল ওপরে, ডানে নোটিশ বেল",
-  "released_at": "2026-11-23T05:28:31Z"
+  "release_notes": "শিক্ষা সফরে বাসের নাম ও সীট নাম (A1, B2); পরীক্ষার টিফিন তালিকা ও PDF; খাদ্য বিভাগের দায়িত্ব; নোটিশ কে কে দেখেছেন তার তালিকা; নতুন নোটিশে মেসেজের মতো রিং।",
+  "released_at": "2026-11-23T08:35:00Z"
 }
