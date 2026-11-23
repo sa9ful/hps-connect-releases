@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "build_number": 3051,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.6.0.apk",
+  "version": "1.7.0",
+  "build_number": 3055,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.7.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "শিক্ষা সফরে বাসের নাম ও সীট নাম (A1, B2); পরীক্ষার টিফিন তালিকা ও PDF; খাদ্য বিভাগের দায়িত্ব; নোটিশ কে কে দেখেছেন তার তালিকা; নতুন নোটিশে মেসেজের মতো রিং।",
-  "released_at": "2026-11-23T08:35:00Z"
+  "release_notes": "নতুন: সাংস্কৃতিক অনুষ্ঠান। হামদ-নাত, গজল, কোরআন তেলাওয়াত, গীতা পাঠ ইত্যাদি প্রতিযোগিতায় শিক্ষার্থীদের নাম যোগ, বিচারকেরা নিজের ফোন থেকে নম্বর দেবেন, অ্যাপ নিজেই ১ম/২য়/৩য় বের করবে, ফলাফলের PDF।",
+  "released_at": "2026-11-23T10:00:00Z"
 }
