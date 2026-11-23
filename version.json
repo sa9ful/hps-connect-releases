@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "build_number": 3055,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.7.0.apk",
+  "version": "1.8.0",
+  "build_number": 3056,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.8.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "নতুন: সাংস্কৃতিক অনুষ্ঠান। হামদ-নাত, গজল, কোরআন তেলাওয়াত, গীতা পাঠ ইত্যাদি প্রতিযোগিতায় শিক্ষার্থীদের নাম যোগ, বিচারকেরা নিজের ফোন থেকে নম্বর দেবেন, অ্যাপ নিজেই ১ম/২য়/৩য় বের করবে, ফলাফলের PDF।",
-  "released_at": "2026-11-23T10:00:00Z"
+  "release_notes": "নতুন: শিক্ষক প্রোফাইলে বিস্তারিত তথ্য। প্রশাসনিক, পারিবারিক, শিক্ষাগত, যোগাযোগ, হাজিরা মেশিন ও ব্যক্তিগত তথ্য প্রত্যেকে নিজেই পূরণ করতে পারবেন। জন্ম তারিখ দিলে বয়স নিজে হিসাব হয়।",
+  "released_at": "2026-11-23T11:35:00Z"
 }

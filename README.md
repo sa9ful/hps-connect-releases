@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.7.0)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.8.0)
 
 ছোট ফাইল (৩৬ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -10,11 +10,11 @@
 
 ## এই ভার্সনে নতুন
 
-নতুন: সাংস্কৃতিক অনুষ্ঠান। হামদ-নাত, গজল, কোরআন তেলাওয়াত, গীতা পাঠ ইত্যাদি প্রতিযোগিতায় শিক্ষার্থীদের নাম যোগ, বিচারকেরা নিজের ফোন থেকে নম্বর দেবেন, অ্যাপ নিজেই ১ম/২য়/৩য় বের করবে, ফলাফলের PDF।
+নতুন: শিক্ষক প্রোফাইলে বিস্তারিত তথ্য। প্রশাসনিক, পারিবারিক, শিক্ষাগত, যোগাযোগ, হাজিরা মেশিন ও ব্যক্তিগত তথ্য প্রত্যেকে নিজেই পূরণ করতে পারবেন। জন্ম তারিখ দিলে বয়স নিজে হিসাব হয়।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.8.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.8.0.apk)
 - [HPS-Connect-1.7.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.7.0.apk)
 - [HPS-Connect-1.6.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.6.0.apk)
 - [HPS-Connect-1.4.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.4.1.apk)
-- [HPS-Connect-1.3.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.3.0.apk)
