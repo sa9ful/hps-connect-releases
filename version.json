@@ -1,8 +1,8 @@
 {
-  "version": "1.10.1",
-  "build_number": 3065,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.10.1.apk",
+  "version": "1.11.0",
+  "build_number": 3103,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.11.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "ঠিক করা হয়েছে: শুরুর স্প্ল্যাশ স্ক্রিন এখন পুরো স্ক্রিন জুড়ে দেখায়, লোগো ও লেখা ঠিক মাঝখানে।",
-  "released_at": "2026-11-23T13:52:00Z"
+  "release_notes": "নতুন: নিজে অ্যাকাউন্ট খোলা (ইনচার্জের অনুমোদনসহ), আবাসিক (মক্তব) ও হিফজুল কুরআন (মক্তব) সেকশন, ড্যাশবোর্ডে অ্যাপ আপডেট বোতাম, সাইড মেনু ঠিক, স্প্ল্যাশ স্ক্রিন ঠিক।",
+  "released_at": "2026-11-24T17:30:00Z"
 }
