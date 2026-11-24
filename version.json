@@ -1,8 +1,8 @@
 {
-  "version": "1.11.0",
-  "build_number": 3103,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.11.0.apk",
+  "version": "1.12.0",
+  "build_number": 3107,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.12.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "নতুন: নিজে অ্যাকাউন্ট খোলা (ইনচার্জের অনুমোদনসহ), আবাসিক (মক্তব) ও হিফজুল কুরআন (মক্তব) সেকশন, ড্যাশবোর্ডে অ্যাপ আপডেট বোতাম, সাইড মেনু ঠিক, স্প্ল্যাশ স্ক্রিন ঠিক।",
-  "released_at": "2026-11-24T17:30:00Z"
+  "release_notes": "নতুন: অভিযোগ ও পরামর্শ বাক্স, ডিউটি, প্রশিক্ষণ ও সার্টিফিকেট, কুইজ, জরুরি রক্তদান, লোকেশন হাজিরা, ক্লাসভিত্তিক লেসন প্ল্যান, শিক্ষার্থী আচরণ রিপোর্ট, ইভেন্ট, স্কুলের নিয়ম, স্টার ও পুরস্কার, ডকুমেন্ট স্ক্যানার, ভয়েস মেসেজ, নোটিশে ছবি/PDF/ভয়েস, মন্তব্য ও এডিট, নতুন নিচের বার ও কল হিস্টরি, অফলাইন মোড, নতুন সাহায্য পাতা।",
+  "released_at": "2026-11-24T19:45:00Z"
 }
