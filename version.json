@@ -1,8 +1,8 @@
 {
-  "version": "1.14.0",
-  "build_number": 3115,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.14.0.apk",
+  "version": "1.15.0",
+  "build_number": 3117,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.15.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "ছুটি ও বদলি দায়িত্ব: ড্যাশবোর্ডে ছুটির বাটন, কত দিনের ছুটি, প্রতিটা ক্লাসে (মর্নিং/ডে) সময়সহ বদলি শিক্ষক, অনুপস্থিতদের তালিকার আলাদা পাতা, ইনচার্জ ও প্রিন্সিপালের ড্যাশবোর্ডে আজকের অনুপস্থিত ও অপেক্ষমাণ আবেদন।",
-  "released_at": "2026-11-25T08:40:00Z"
+  "release_notes": "টার্মিনেটেড শিক্ষার্থীদের তালিকা: প্রতিটা শাখার শ্রেণি শিক্ষক আইডি, নাম ও কারণসহ তালিকা জমা দেবেন, প্রিন্সিপাল ও সেকশন ইনচার্জ A4 PDF প্রিন্ট বা শেয়ার করতে পারবেন; ইনচার্জরা নিজের সেকশনে শ্রেণি শিক্ষক বসাতে পারবেন; নিরাপত্তা উন্নতি।",
+  "released_at": "2026-11-25T10:20:00Z"
 }
