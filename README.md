@@ -10,7 +10,7 @@
 
 ## উইন্ডোজ কম্পিউটার/ল্যাপটপ (৬৪-বিট)
 
-[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.16.6, ২৬ MB, নতুন নীল ডিজাইন)
+[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.17.0, ২৭ MB, এন্ট্রি/এক্সিট হাজিরা ও নতুন সেটিংস)
 
 ফাইলটি নামিয়ে দুই ক্লিক করে ইনস্টল করুন। "Windows protected your PC" দেখালে "More info" > "Run anyway" চাপুন।
 ফোনের মতো একই আইডি/পাসওয়ার্ডে লগইন, একই ডেটা। পুশ নোটিফিকেশন ও কল শুধু ফোনে; কম্পিউটারে অ্যাপ খোলা থাকলে নোটিশের নোটিফিকেশন আসে।
