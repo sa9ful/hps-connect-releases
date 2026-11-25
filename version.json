@@ -1,8 +1,8 @@
 {
-  "version": "1.12.2",
-  "build_number": 3111,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.12.2.apk",
+  "version": "1.13.0",
+  "build_number": 3113,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.13.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "নিরাপত্তা ও গতি উন্নতি: ইনচার্জ এডিট করে নোটিশ/মিটিং/ডিউটি অন্য সেকশনে সরাতে পারবেন না, হাজিরার গণনা সুরক্ষিত, কম ডেটা খরচ (কল হিস্টরি, নোটিশ, স্টাফ তালিকা), ছোট ফোন ও বড় ফন্টে পাতা আর ভাঙে না।",
-  "released_at": "2026-11-24T20:36:00Z"
+  "release_notes": "কল বাটন এক চাপে বা সোয়াইপে কাজ করে, ভিডিও কলে দুজনের ভিডিও চালু; নোটিশ দেখলে ড্যাশবোর্ড থেকে সরে যায়; তিন ক্যাম্পাস; সুপার অ্যাডমিনের পূর্ণ ক্ষমতা ও অডিট লগ; আইটি এক্সিকিউটিভ; ডার্ক মোড, পছন্দের রং ও পাসওয়ার্ড বদল; পরীক্ষার রুটিন; শ্রেণি ও শ্রেণি শিক্ষক।",
+  "released_at": "2026-11-25T08:25:00Z"
 }
