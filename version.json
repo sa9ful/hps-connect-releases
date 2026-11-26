@@ -1,8 +1,8 @@
 {
-  "version": "1.19.0",
-  "build_number": 3132,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.19.0.apk",
+  "version": "1.20.0",
+  "build_number": 3133,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.20.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "রিকভারি ইমেইল: সেটিংসে নিজের আসল ইমেইল যুক্ত করুন। পাসওয়ার্ড ভুলে গেলে User ID লিখে \"পাসওয়ার্ড ভুলে গেছেন?\" চাপলে রিসেট লিংক সেই ইমেইলে যাবে। User ID দিয়ে লগইন আগের মতোই চলবে।",
-  "released_at": "2026-11-26T18:35:00Z"
+  "release_notes": "নতুন: শিক্ষার্থী তালিকা (আইডি, নাম, ফোন, ছবি), যা থেকে সাংস্কৃতিক ও ক্রীড়া প্রতিযোগিতায় নাম নিজে থেকে আসে। আগ্রহী শিক্ষার্থীদের টিক দেওয়া যায়। শ্রেণি শিক্ষক ও ২ জন বিচারকের ৩টি নম্বরের ঘর (বিচারক না থাকলে শ্রেণি শিক্ষক নিজেই তিন ঘর)। মেধা তালিকা PDF-এ শুধু অংশগ্রহণকারীরা। নতুন বার্ষিক ক্রীড়া প্রতিযোগিতা (১ম/২য়/৩য়)। সব PDF-এ ওপরে ডানে স্কুলের লোগো।",
+  "released_at": "2026-11-26T23:35:00Z"
 }
