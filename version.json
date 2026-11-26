@@ -1,8 +1,8 @@
 {
-  "version": "1.16.1",
-  "build_number": 3121,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.16.1.apk",
+  "version": "1.17.1",
+  "build_number": 3129,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.17.1.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "টার্মিনেট অকেশন মোছা: প্রিন্সিপাল, ইনচার্জ ও সুপার অ্যাডমিন অকেশন মুছতে পারবেন, সাথে সব শাখার তালিকাও মুছে যাবে।",
-  "released_at": "2026-11-25T12:05:00Z"
+  "release_notes": "হস্তান্তরের আগে পূর্ণ অডিট: হাজিরা শুধু আজকের তারিখে, প্রিন্সিপালের জায়গার ৫০ মিটারের মধ্যে এন্ট্রি ও এক্সিট, ছুটি ও টার্মিনেটেড তালিকায় সেকশনের নিরাপত্তা, টিফিনের সংখ্যা শুধু যিনি দিয়েছেন তিনি বদলাবেন, অ্যাকাউন্ট মুছলে ব্যক্তিগত তথ্যও মুছে যায়, সব এরর মেসেজ সহজ বাংলায়।",
+  "released_at": "2026-11-26T10:20:00Z"
 }

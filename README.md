@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.16.1)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.17.1)
 
 ছোট ফাইল (৩৬ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -10,17 +10,17 @@
 
 ## উইন্ডোজ কম্পিউটার/ল্যাপটপ (৬৪-বিট)
 
-[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.17.0, ২৭ MB, এন্ট্রি/এক্সিট হাজিরা ও নতুন সেটিংস)
+[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.17.1, ২৭ MB)
 
 ফাইলটি নামিয়ে দুই ক্লিক করে ইনস্টল করুন। "Windows protected your PC" দেখালে "More info" > "Run anyway" চাপুন।
 ফোনের মতো একই আইডি/পাসওয়ার্ডে লগইন, একই ডেটা। পুশ নোটিফিকেশন ও কল শুধু ফোনে; কম্পিউটারে অ্যাপ খোলা থাকলে নোটিশের নোটিফিকেশন আসে।
 
-## এই ভার্সনে নতুন
+## এই ভার্সনে নতুন (1.17.1)
 
-নিরাপত্তা ও গতি উন্নতি: ইনচার্জ এডিট করে নোটিশ/মিটিং/ডিউটি অন্য সেকশনে সরাতে পারবেন না, হাজিরার গণনা সুরক্ষিত, কম ডেটা খরচ (কল হিস্টরি, নোটিশ, স্টাফ তালিকা), ছোট ফোন ও বড় ফন্টে পাতা আর ভাঙে না।
+হস্তান্তরের আগে পূর্ণ অডিট: হাজিরা শুধু আজকের তারিখে, প্রিন্সিপালের জায়গার ৫০ মিটারের মধ্যে এন্ট্রি ও এক্সিট, ছুটি ও টার্মিনেটেড তালিকায় সেকশনের নিরাপত্তা, টিফিনের সংখ্যা শুধু যিনি দিয়েছেন তিনি বদলাবেন, অ্যাকাউন্ট মুছলে ব্যক্তিগত তথ্যও মুছে যায়, সব এরর মেসেজ সহজ বাংলায়।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.17.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.17.1.apk)
 - [HPS-Connect-1.16.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.16.1.apk)
 - [HPS-Connect-1.16.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.16.0.apk)
-- [HPS-Connect-1.15.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.15.0.apk)
