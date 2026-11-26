@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.17.1)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.18.0)
 
 ছোট ফাইল (৩৬ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -15,12 +15,12 @@
 ফাইলটি নামিয়ে দুই ক্লিক করে ইনস্টল করুন। "Windows protected your PC" দেখালে "More info" > "Run anyway" চাপুন।
 ফোনের মতো একই আইডি/পাসওয়ার্ডে লগইন, একই ডেটা। পুশ নোটিফিকেশন ও কল শুধু ফোনে; কম্পিউটারে অ্যাপ খোলা থাকলে নোটিশের নোটিফিকেশন আসে।
 
-## এই ভার্সনে নতুন (1.17.1)
+## এই ভার্সনে নতুন (1.18.0)
 
-হস্তান্তরের আগে পূর্ণ অডিট: হাজিরা শুধু আজকের তারিখে, প্রিন্সিপালের জায়গার ৫০ মিটারের মধ্যে এন্ট্রি ও এক্সিট, ছুটি ও টার্মিনেটেড তালিকায় সেকশনের নিরাপত্তা, টিফিনের সংখ্যা শুধু যিনি দিয়েছেন তিনি বদলাবেন, অ্যাকাউন্ট মুছলে ব্যক্তিগত তথ্যও মুছে যায়, সব এরর মেসেজ সহজ বাংলায়।
+সাংস্কৃতিক অনুষ্ঠানে প্রতিটি শ্রেণীর ডিফল্ট সেকশন (কিডস: মর্নিং ও ডে; প্লে থেকে দশম: Boys-1, Boys-2, Girls-1, Girls-2), শ্রেণী যোগ ও মোছা, বিচারকেরাও নম্বর দিতে পারেন, প্রতিটি ক্লাসের সার্বিক লাইভ রেজাল্ট (আইটি এক্সিকিউটিভ শুধু দেখেন); ইংরেজি লেখা Calibri ধাঁচের ফন্টে; হাজিরার বছরের পূর্ণ রিপোর্ট (১ জানুয়ারি থেকে আজ)।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.18.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.18.0.apk)
 - [HPS-Connect-1.17.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.17.1.apk)
 - [HPS-Connect-1.16.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.16.1.apk)
-- [HPS-Connect-1.16.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.16.0.apk)
