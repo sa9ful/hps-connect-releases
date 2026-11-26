@@ -1,8 +1,8 @@
 {
-  "version": "1.18.0",
-  "build_number": 3131,
-  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.18.0.apk",
+  "version": "1.19.0",
+  "build_number": 3132,
+  "apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.19.0.apk",
   "latest_apk_url": "https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk",
-  "release_notes": "সাংস্কৃতিক অনুষ্ঠানে প্রতিটি শ্রেণীর ডিফল্ট সেকশন (কিডস: মর্নিং ও ডে; প্লে থেকে দশম: Boys-1, Boys-2, Girls-1, Girls-2), শ্রেণী যোগ ও মোছা, বিচারকেরাও নম্বর দিতে পারেন, প্রতিটি ক্লাসের সার্বিক লাইভ রেজাল্ট (আইটি এক্সিকিউটিভ শুধু দেখেন); ইংরেজি লেখা Calibri ধাঁচের ফন্টে; হাজিরার বছরের পূর্ণ রিপোর্ট (১ জানুয়ারি থেকে আজ)।",
-  "released_at": "2026-11-26T16:15:00Z"
+  "release_notes": "রিকভারি ইমেইল: সেটিংসে নিজের আসল ইমেইল যুক্ত করুন। পাসওয়ার্ড ভুলে গেলে User ID লিখে \"পাসওয়ার্ড ভুলে গেছেন?\" চাপলে রিসেট লিংক সেই ইমেইলে যাবে। User ID দিয়ে লগইন আগের মতোই চলবে।",
+  "released_at": "2026-11-26T18:35:00Z"
 }
