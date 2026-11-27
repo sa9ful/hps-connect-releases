@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.22.0)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.22.1)
 
 ছোট ফাইল (৪০ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -10,17 +10,17 @@
 
 ## উইন্ডোজ কম্পিউটার/ল্যাপটপ (৬৪-বিট)
 
-[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.22.0, ২৮ MB, লগইন থাকা ডিভাইস, অ্যাপ লক, পূর্ণ ইংরেজি অনুবাদ)
+[HPS-Connect-Setup-latest.exe](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-Setup-latest.exe) (v1.22.1, ২৮ MB, পরিষ্কার ড্যাশবোর্ড, লগইন থাকা ডিভাইস, অ্যাপ লক)
 
 ফাইলটি নামিয়ে দুই ক্লিক করে ইনস্টল করুন। "Windows protected your PC" দেখালে "More info" > "Run anyway" চাপুন।
 ফোনের মতো একই আইডি/পাসওয়ার্ডে লগইন, একই ডেটা। পুশ নোটিফিকেশন ও কল শুধু ফোনে; কম্পিউটারে অ্যাপ খোলা থাকলে নোটিশের নোটিফিকেশন আসে।
 
-## এই ভার্সনে নতুন (1.22.0)
+## এই ভার্সনে নতুন (1.22.1)
 
-নতুন: সেটিংসে "লগইন থাকা ডিভাইস" (কোন ফোন/কম্পিউটারে লগইন আছে, দূর থেকে লগআউট, নতুন ডিভাইসে লগইন হলে সতর্কতা, ৬০ দিন অব্যবহৃত ডিভাইস নিজে মুছে যায়; সুপার অ্যাডমিন যেকোনো শিক্ষকের ডিভাইস দেখতে ও লগআউট করতে পারেন)। অ্যাপ লক (আঙ্গুলের ছাপ বা পিন), আমার কাজের হিসাব, বিরক্ত করবেন না সময় (জরুরি সতর্কতা ও কল তখনও বাজে), স্ক্রিনশটসহ সমস্যা জানানো, ডাটা সাশ্রয় ও ক্যাশ পরিষ্কার। ইংরেজি বেছে নিলে এখন প্রায় সব বাটন, সেটিংস, বার্তা ও নোটিফিকেশন ইংরেজিতে দেখায়।
+কম্পিউটারের অ্যাপে ড্যাশবোর্ড এখন পরিষ্কার: বাঁ পাশের সাইডবারে যেসব বোতাম আছে, সেগুলো আর ড্যাশবোর্ডে দেখায় না; শুধু বাকি টাস্ক, চলমান পোল, সারসংক্ষেপের মতো তথ্যের কার্ড থাকে। ফোনের অ্যাপ আগের মতোই।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.22.1.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.22.1.apk)
 - [HPS-Connect-1.22.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.22.0.apk)
 - [HPS-Connect-1.21.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.21.0.apk)
-- [HPS-Connect-1.20.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.20.0.apk)
