@@ -1,6 +1,6 @@
 # এইচপিএস কানেক্ট — অ্যাপ ডাউনলোড
 
-সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.21.0)
+সর্বশেষ অ্যাপ: [HPS-Connect-latest.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest.apk) (v1.22.0)
 
 ছোট ফাইল (৪০ MB, প্রায় সব নতুন ফোনে চলে): [HPS-Connect-latest-arm64.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-latest-arm64.apk)
 
@@ -15,12 +15,12 @@
 ফাইলটি নামিয়ে দুই ক্লিক করে ইনস্টল করুন। "Windows protected your PC" দেখালে "More info" > "Run anyway" চাপুন।
 ফোনের মতো একই আইডি/পাসওয়ার্ডে লগইন, একই ডেটা। পুশ নোটিফিকেশন ও কল শুধু ফোনে; কম্পিউটারে অ্যাপ খোলা থাকলে নোটিশের নোটিফিকেশন আসে।
 
-## এই ভার্সনে নতুন (1.21.0)
+## এই ভার্সনে নতুন (1.22.0)
 
-নতুন: শিক্ষার্থী তালিকায় "প্রমোটেড" বাটন। বছর শেষে শিক্ষার্থী পরের শ্রেণির একই শিফট ও শাখায় চলে যায় (একসাথে অনেকজনকেও পাঠানো যায়, শ্রেণি/শিফট/শাখা বদলানো যায়)। দশম শেষে "পাস করে বের হয়েছে"। বার্ষিক ক্রীড়ায় নম্বর নেই: শ্রেণি শিক্ষক সরাসরি ১ম/২য়/৩য় বাছাই করেন, সমান হলে একাধিকজন একই স্থান পায়।
+নতুন: সেটিংসে "লগইন থাকা ডিভাইস" (কোন ফোন/কম্পিউটারে লগইন আছে, দূর থেকে লগআউট, নতুন ডিভাইসে লগইন হলে সতর্কতা, ৬০ দিন অব্যবহৃত ডিভাইস নিজে মুছে যায়; সুপার অ্যাডমিন যেকোনো শিক্ষকের ডিভাইস দেখতে ও লগআউট করতে পারেন)। অ্যাপ লক (আঙ্গুলের ছাপ বা পিন), আমার কাজের হিসাব, বিরক্ত করবেন না সময় (জরুরি সতর্কতা ও কল তখনও বাজে), স্ক্রিনশটসহ সমস্যা জানানো, ডাটা সাশ্রয় ও ক্যাশ পরিষ্কার। ইংরেজি বেছে নিলে এখন প্রায় সব বাটন, সেটিংস, বার্তা ও নোটিফিকেশন ইংরেজিতে দেখায়।
 
 ## সব ভার্সন
 
+- [HPS-Connect-1.22.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.22.0.apk)
 - [HPS-Connect-1.21.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.21.0.apk)
 - [HPS-Connect-1.20.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.20.0.apk)
-- [HPS-Connect-1.19.0.apk](https://github.com/sa9ful/hps-connect-releases/raw/main/HPS-Connect-1.19.0.apk)
